@@ -120,7 +120,7 @@ public class Messages {
 	
 	// ATM Location Search
 	public static final String ATM_SEARCH_FORMAT		= "Zip Code must follow proper postal code format";
-	public static final String ATM_SEARCH_EMPTY			= "ERROR";
+	public static final String ATM_SEARCH_EMPTY			= "No resulta found for this zip code";
 	public static final String ATM_SEARCH_UNAVAILABLE	= "The ATM Location Search service is temporarily unavailable. We applogize for "
 														+ "any inconvenience this may cause. Please try again at a later time.";
 	
